@@ -1,0 +1,26 @@
+Cảm Ơn Bạn Đã Sử Dụng Dịch Vụ VPS free của bên mình nha ai có thắc mắc vui lòng liên hệ cho:
+Này là mình cũng lấy code của 1 bạn người nước ngoài nha.
+zalo:0559140928
+Facebook:https://www.facebook.com/Bong.Toi.11022010
+
+Bản quyền 2015-2018 (c) Analog Devices, Inc.
+
+Mọi quyền được bảo lưu.
+
+Việc phân phối lại và sử dụng dưới dạng mã nguồn và dạng nhị phân, có hoặc không có sửa đổi,
+được phép miễn là các điều kiện sau được tuân thủ:
+
+Việc phân phối lại mã nguồn phải giữ nguyên bản thông báo bản quyền trên, danh sách các điều kiện này và tuyên bố từ chối trách nhiệm dưới đây.
+
+Việc phân phối lại dưới dạng nhị phân phải tái hiện bản thông báo bản quyền trên, danh sách các điều kiện này và tuyên bố từ chối trách nhiệm trong tài liệu hướng dẫn và/hoặc các tài liệu khác kèm theo bản phân phối.
+
+Không được sử dụng tên của Analog Devices, Inc. hoặc tên của các cộng tác viên để bảo trợ hoặc quảng bá các sản phẩm được phát triển từ phần mềm này mà không có sự cho phép cụ thể bằng văn bản trước.
+
+Việc sử dụng phần mềm này có thể hoặc không vi phạm các quyền bằng sáng chế của một hoặc nhiều chủ sở hữu bằng sáng chế. Giấy phép này không miễn trừ bạn khỏi việc phải xin cấp phép riêng từ những chủ sở hữu bằng sáng chế đó để sử dụng phần mềm này.
+
+Việc sử dụng phần mềm này dưới dạng mã nguồn hoặc nhị phân phải được chạy trên hoặc kết nối trực tiếp với một linh kiện của Analog Devices Inc.
+
+PHẦN MỀM NÀY ĐƯỢC CUNG CẤP BỞI ANALOG DEVICES "NGUYÊN TRẠNG" VÀ MỌI BẢO ĐẢM NGẦM ĐỊNH HOẶC RÕ RÀNG,
+BAO GỒM NHƯNG KHÔNG GIỚI HẠN Ở VIỆC KHÔNG VI PHẠM, KHẢ NĂNG THƯƠNG MẠI VÀ SỰ PHÙ HỢP CHO MỤC ĐÍCH CỤ THỂ, ĐỀU ĐƯỢC BỎ QUA.
+
+TRONG MỌI TRƯỜNG HỢP, ANALOG DEVICES KHÔNG CHỊU TRÁCH NHIỆM CHO BẤT KỲ THIỆT HẠI TRỰC TIẾP, GIÁN TIẾP, NGẪU NHIÊN, ĐẶC BIỆT, ĐIỂN HÌNH HOẶC HẬU QUẢ (BAO GỒM NHƯNG KHÔNG GIỚI HẠN Ở VIỆC VI PHẠM QUYỀN SỞ HỮU TRÍ TUỆ, CHI PHÍ THAY THẾ HÀNG HÓA HOẶC DỊCH VỤ, MẤT SỬ DỤNG, MẤT DỮ LIỆU HOẶC LỢI NHUẬN, HOẶC GIÁN ĐOẠN KINH DOANH) BẤT KỂ NGUYÊN NHÂN VÀ DƯỚI MỌI HÌNH THỨC TRÁCH NHIỆM, KỂ CẢ HỢP ĐỒNG, TRÁCH NHIỆM TUYỆT ĐỐI HOẶC BỒI THƯỜNG DÂN SỰ (BAO GỒM CẢ SỰ CẨN THẬN HOẶC KHÔNG), PHÁT SINH TỪ HOẶC LIÊN QUAN ĐẾN VIỆC SỬ DỤNG PHẦN MỀM NÀY, NGAY CẢ KHI ĐÃ ĐƯỢC CẢNH BÁO VỀ KHẢ NĂNG XẢY RA CÁC THIỆT HẠI NHƯ VẬY.
